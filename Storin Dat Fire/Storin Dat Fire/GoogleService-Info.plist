@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>825591160792-udienjd2e6v3b7p1u798vi811bjfhrt1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.825591160792-udienjd2e6v3b7p1u798vi811bjfhrt1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDfSVFtwvK8mYX2b5kxE4hDvXLO1vVESIo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>825591160792</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kiloloco.Storin-Dat-Fire</string>
+	<key>PROJECT_ID</key>
+	<string>savin-dat-fire</string>
+	<key>STORAGE_BUCKET</key>
+	<string>savin-dat-fire.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:825591160792:ios:20c1c150384662ed</string>
+	<key>DATABASE_URL</key>
+	<string>https://savin-dat-fire.firebaseio.com</string>
+</dict>
+</plist>

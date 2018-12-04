@@ -1,0 +1,6 @@
+framework module Pods_Storin_Dat_Fire {
+  umbrella header "Pods-Storin Dat Fire-umbrella.h"
+
+  export *
+  module * { export * }
+}
